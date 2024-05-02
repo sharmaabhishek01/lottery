@@ -1,0 +1,53 @@
+nav {
+    height: 115vh; 
+    background-image: url(https://c.tenor.com/8CnlmiFa-rAAAAAC/eth-ethereum.gif); 
+    background-size: cover;
+    
+}
+.Doll{
+    font-family: Jazz LET, fantasy;
+    display: grid;
+    place-items: centre;
+    font-size: 5rem;
+    margin-top: 270px;
+    
+}
+nav.div{
+    text-align: center;
+    text-decoration: double;
+}
+.enter-button{
+    background: #f19a9a;
+    text-align: center;
+    border-color: rgb(33, 203, 203);
+    border-radius: 5px;
+    border-width: 5px;
+}
+.enter-button:hover{
+         background: #f84c4c;
+}
+.button-container{
+   text-align: center;
+   border-style: dotted;
+}
+.enter-button{
+    text-align: center;
+    background-color: rgb(122, 179, 230);
+    border-color: black;
+    text-shadow: #f19a9a;
+}
+.Navbar{
+    text-align: center;
+}
+.div{
+    text-decoration: overline;
+}
+.container{
+    text-align: center;
+    font-size: large;
+    height: 20vh;
+    font: 1.2em "Fira Sans", sans-serif;
+}
+.Him{
+    text-align: center;
+}
